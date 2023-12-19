@@ -1,0 +1,15 @@
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\FifthApp\FifthApp\bin\Debug\net7.0\FifthApp.exe
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\FifthApp\FifthApp\bin\Debug\net7.0\FifthApp.deps.json
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\FifthApp\FifthApp\bin\Debug\net7.0\FifthApp.runtimeconfig.json
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\FifthApp\FifthApp\bin\Debug\net7.0\FifthApp.dll
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\FifthApp\FifthApp\bin\Debug\net7.0\FifthApp.pdb
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\FifthApp\FifthApp\obj\Debug\net7.0\FifthApp.csproj.AssemblyReference.cache
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\FifthApp\FifthApp\obj\Debug\net7.0\FifthApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\FifthApp\FifthApp\obj\Debug\net7.0\FifthApp.AssemblyInfoInputs.cache
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\FifthApp\FifthApp\obj\Debug\net7.0\FifthApp.AssemblyInfo.cs
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\FifthApp\FifthApp\obj\Debug\net7.0\FifthApp.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\FifthApp\FifthApp\obj\Debug\net7.0\FifthApp.dll
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\FifthApp\FifthApp\obj\Debug\net7.0\refint\FifthApp.dll
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\FifthApp\FifthApp\obj\Debug\net7.0\FifthApp.pdb
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\FifthApp\FifthApp\obj\Debug\net7.0\FifthApp.genruntimeconfig.cache
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\FifthApp\FifthApp\obj\Debug\net7.0\ref\FifthApp.dll
