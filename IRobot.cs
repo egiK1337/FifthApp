@@ -1,5 +1,4 @@
 ﻿
-
 namespace FifthApp
 {
     public interface IRobot

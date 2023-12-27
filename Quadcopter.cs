@@ -20,8 +20,7 @@ namespace FifthApp
             return "This is a flying robot";
         }      
         public List<string> GetComponents()
-        {
-            
+        {           
             return list_components;
         }
     }
